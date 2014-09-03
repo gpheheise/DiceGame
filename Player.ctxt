@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment0.text=\n\ Get\ the\ player's\ name\n\n\ @return\ the\ name\ of\ the\ player\n
+comment1.params=
+comment1.target=int\ getPosition()
+comment1.text=\n\ Get\ the\ player's\ position.\n\n\ @return\ the\ position\ of\ the\ player.\n
+comment2.params=
+comment2.target=Player()
+comment2.text=\n\ Construct\ a\ basic\ player\ object.\n
+comment3.params=name
+comment3.target=Player(java.lang.String)
+comment3.text=\n\ Construct\ a\ player\ object\ with\ a\ specific\ name.\n\n\ @param\ name\ the\ name\ of\ the\ player.\n
+comment4.params=count
+comment4.target=void\ raisePosition(int)
+comment4.text=\n\ Raise\ the\ player's\ position\n\ @param\ number\ to\ raise\ the\ position\n
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\n\ Set\ the\ player's\ name\n\n\ @param\ the\ name\ of\ the\ player\n
+comment6.params=
+comment6.target=void\ penalize()
+comment6.text=\n\ Reduce\ the\ player's\ position\ \n
+numComments=7
